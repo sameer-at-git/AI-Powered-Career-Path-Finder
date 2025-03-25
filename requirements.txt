@@ -1,0 +1,12 @@
+ipykernel
+pandas
+numpy
+matplotlib
+seaborn
+keras
+torch 
+torchvision
+torchaudio
+#tensorflow[and-cuda] 
+#alternative :pip install https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.8.0-py3-none-any.whl
+scikit-learn
